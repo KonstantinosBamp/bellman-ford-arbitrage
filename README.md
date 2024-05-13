@@ -1,2 +1,2 @@
 # bellman-ford-arbitrage
-Bellman-Ford Algorithm Implementation in Python 
+Implementation of the Bellman-Ford shortest path Algorithm to detect arbitrage opportunities on the FOREX market
